@@ -200,7 +200,7 @@ fprintf( ...
         max(Q_at_Nod(indNodLeft)))
 
 %PART E
-%Now there is convection with the inner media allong the drilling
+%Now there is convection with the inner media along the drilling
 %
 % B.C.
 fixedNod= indNodRBT;   %fixed Nodes (global numbering)
