@@ -17,7 +17,7 @@ eval('meshPlacaForatQuad');
 [numNod,ndim]=size(nodes);
 numElem=size(elem,1);
 numbering=0;
-plotElements(nodes, elem, numbering)
+plotElementsOld(nodes, elem, numbering)
 hold on
 
 %%Select Boundary points
